@@ -1,4 +1,3 @@
-# FiltreX
 Filtrex
 =======
 
